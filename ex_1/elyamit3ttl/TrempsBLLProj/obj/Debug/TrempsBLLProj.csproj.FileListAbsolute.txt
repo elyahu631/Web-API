@@ -1,0 +1,9 @@
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsBLLProj.dll
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsBLLProj.pdb
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsDalProj.dll
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsDalProj.pdb
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.AssemblyReference.cache
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.CoreCompileInputs.cache
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.CopyComplete
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.dll
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.pdb
