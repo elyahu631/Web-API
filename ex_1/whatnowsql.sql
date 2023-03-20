@@ -1,3 +1,9 @@
+/*
+use master
+drop database DBTremps
+go
+*/
+
 create database DBTremps
 go
 
