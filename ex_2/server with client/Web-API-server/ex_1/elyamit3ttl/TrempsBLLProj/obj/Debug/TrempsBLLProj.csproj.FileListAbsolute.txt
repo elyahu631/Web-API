@@ -1,0 +1,45 @@
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsBLLProj.dll
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsBLLProj.pdb
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsDalProj.dll
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsDalProj.pdb
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.AssemblyReference.cache
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.CoreCompileInputs.cache
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.CopyComplete
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.dll
+E:\סמסטר ב\server_side_nir\lesson_4\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.pdb
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-main\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsBLLProj.dll
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-main\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsBLLProj.pdb
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-main\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsDalProj.dll
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-main\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsDalProj.pdb
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-main\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.AssemblyReference.cache
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-main\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.CoreCompileInputs.cache
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-main\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.CopyComplete
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-main\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.dll
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-main\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.pdb
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsBLLProj.dll
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsBLLProj.pdb
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsDalProj.dll
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsDalProj.pdb
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.AssemblyReference.cache
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.CoreCompileInputs.cache
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.CopyComplete
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.dll
+F:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.pdb
+D:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.AssemblyReference.cache
+D:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.CoreCompileInputs.cache
+D:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.dll
+D:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.pdb
+D:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsBLLProj.dll
+D:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsBLLProj.pdb
+D:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsDalProj.dll
+D:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsDalProj.pdb
+D:\ruppin\שנה ב\סמסטר ב\web api\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.CopyComplete
+C:\Users\Elyahu\Desktop\New folder\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsBLLProj.dll
+C:\Users\Elyahu\Desktop\New folder\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsBLLProj.pdb
+C:\Users\Elyahu\Desktop\New folder\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsDalProj.dll
+C:\Users\Elyahu\Desktop\New folder\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\bin\Debug\TrempsDalProj.pdb
+C:\Users\Elyahu\Desktop\New folder\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.AssemblyReference.cache
+C:\Users\Elyahu\Desktop\New folder\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.CoreCompileInputs.cache
+C:\Users\Elyahu\Desktop\New folder\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.csproj.CopyComplete
+C:\Users\Elyahu\Desktop\New folder\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.dll
+C:\Users\Elyahu\Desktop\New folder\Web-API-server\ex_1\elyamit3ttl\TrempsBLLProj\obj\Debug\TrempsBLLProj.pdb
